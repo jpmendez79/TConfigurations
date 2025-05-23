@@ -1,10 +1,3 @@
-processed_checkout_rootfiles/bnb/run4b/data/checkout_bnb_data_run4b_bdtconverted_convertcved.root	all
-processed_checkout_rootfiles/bnb/run4a/data/checkout_data_bnb_run4a.root				all
-processed_checkout_rootfiles/bnb/run4a/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4a_FIXED.root	all
-processed_checkout_rootfiles/bnb/run4a/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4a_FIXED.root	all
-processed_checkout_rootfiles/bnb/run4a/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4a_FIXED.root	all
-processed_checkout_rootfiles/bnb/run4b/data/checkout_bnb_ext_run4b_bdtconverted_convertcved.root	all
-processed_checkout_rootfiles/bnb/run4a/data/checkout_data_extbnb_run4a.root				all
 processed_checkout_rootfiles/bnb/run1/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run1.root		all
 processed_checkout_rootfiles/bnb/run2/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run2.root		all
 processed_checkout_rootfiles/bnb/run3/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run3.root		all
@@ -16,9 +9,6 @@ processed_checkout_rootfiles/bnb/run4a/cv/checkout_prodgenie_bnb_nu_overlay_run4
 processed_checkout_rootfiles/bnb/run1/data/checkout_data_extbnb_run1_PF.root				all
 processed_checkout_rootfiles/bnb/run2/data/checkout_data_extbnb_run2_PF.root				all
 processed_checkout_rootfiles/bnb/run3/data/checkout_data_extbnb_run3_PF.root				all
-processed_checkout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_nu_overlay_run4b_pruned_bdtconverted_convertcved.root all
-processed_checkout_rootfiles/bnb/run4b/cv/checkout_prodgenie_bnb_intrinsic_nue_overlay_run4b_FIXED.root all
-processed_checkout_rootfiles/bnb/run4b/cv/checkout_prod_dirt_run4b_pruned_bdtconverted_convertcved.root all
 test_beamoff.root											all
 processed_checkout_rootfiles/bnb/run1/cv/checkout_prodgenie_dirt_overlay_run1_all.root			all
 processed_checkout_rootfiles/bnb/run2/cv/checkout_prodgenie_dirt_overlay_run2_all.root			all
